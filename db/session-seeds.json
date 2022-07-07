@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Project 4 Planning",
+    "type": "pomodoro",
+    "length": "3 hours",
+    "todos": ["Wireframes", "Trello Board", "Component Heirarchy"]
+  },
+  {
+    "name": "Fold Laundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"]
+  }
+]
