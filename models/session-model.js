@@ -11,7 +11,10 @@ const SessionSchema = new mongoose.Schema(
         type: Boolean
       }
     },
-    length: String,
+    length: {
+      minutes: Number,
+      hours: Number,
+    },
     todos: [String],
     userId: {
       type: mongoose.Types.ObjectId,
