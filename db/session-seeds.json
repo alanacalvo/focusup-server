@@ -9,6 +9,8 @@
     "name": "Fold Laundry",
     "type": "regular",
     "length": "30 minutes",
-    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"]
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "blue",
+    "notes": "this was a great session"
   }
 ]

@@ -14,19 +14,15 @@ app.get('/:id', (req,res) => {
     .catch(console.error)
 })
 
-app.get('/:id', (req,res) => {
-  Session.findOneAndUpdate(
-    {_id: req.params.id},
-    {
-      name: req.body.name,
-      type: req.body.type,
-      todos: req.body.todos
-    }
-  )
+app.put('/finish/:id', (req,res) => {
+  Session.findByIdAndUpdate(req.params.id, 
+    {todos: req.body.todos, notes: req.body.notes})
+    .then(session => res.send(session))
+    .catch(console.error)
 })
 
 
-app.post('/newsession', function(req,res) {
+app.post('/newsession',(req,res) => {
   Session.create(req.body)
     .then(sessions => {
       res.send(sessions)

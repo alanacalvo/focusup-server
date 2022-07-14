@@ -17,6 +17,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(Session);
 // app.use(require(''));
 
+// app.get('/favicon.ico', return)
 
 const port = process.env.PORT || 5000
 

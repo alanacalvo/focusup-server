@@ -16,6 +16,9 @@ const SessionSchema = new mongoose.Schema(
       hours: Number,
     },
     todos: [String],
+    colorRating: String,
+    starRating: String,
+    notes: String,
     userId: {
       type: mongoose.Types.ObjectId,
       ref: 'User'
