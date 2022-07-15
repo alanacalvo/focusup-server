@@ -12,12 +12,12 @@ app.use(
     credentials: false,
   })
 );
+app.get('/favicon.ico', (req,res) => {
+    console.log('favicon')
+  })
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }))
 app.use(Session);
-// app.use(require(''));
-
-// app.get('/favicon.ico', return)
 
 const port = process.env.PORT || 5000
 
