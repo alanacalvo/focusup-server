@@ -16,12 +16,10 @@ const UserSchema = new Schema(
       type: String,
       required: true
     },
-    // sessionHistory: {
-    //   sessions: [{
-    //     type: Schema.Types.ObjectId, 
-    //     ref: 'Session'
-    //   }]
-    // }
+    sessions: [{
+      type: Schema.Types.ObjectId, 
+      ref: 'Session'
+    }]
   }
 )
 

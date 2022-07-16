@@ -10,6 +10,7 @@ app.get('/', (req,res) => {
 
 app.get('/:id', (req,res) => {
   Session.findById(req.params.id)
+    .populate('userId')
     .then(session => res.send(session))
     .catch(console.error)
 })
@@ -37,7 +38,5 @@ app.delete('/:id', (req,res) => {
   })
   .catch(console.error)
 })
-
-
 
 module.exports = app;

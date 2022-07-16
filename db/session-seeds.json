@@ -3,7 +3,10 @@
     "name": "Project 4 Planning",
     "type": "pomodoro",
     "length": "3 hours",
-    "todos": ["Wireframes", "Trello Board", "Component Heirarchy"]
+    "todos": ["Wireframes", "Trello Board", "Component Heirarchy"],
+    "colorRating": "green",
+    "_id": "62cf677a5a9f83327e5b1dd1",
+    "userId": "62cf677a5a9f83327e5b1dd3"
   },
   {
     "name": "Fold Laundry",
@@ -11,6 +14,8 @@
     "length": "30 minutes",
     "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
     "colorRating": "blue",
-    "notes": "this was a great session"
+    "notes": "this was a great session",
+    "_id": "62cf677a5a9f83327e5b1dd2",
+    "userId": "62cf677a5a9f83327e5b1dd3"
   }
 ]

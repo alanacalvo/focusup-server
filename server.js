@@ -1,8 +1,9 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-require('./db/connection')
-const Session = require('./controllers/adhdhubcontroller')
+require('./db/connection');
+const Session = require('./controllers/sessionController');
+const User = require('./controllers/userController');
 
 // require('dotenv').config({ path: './config.env' });
 
@@ -13,14 +14,15 @@ app.use(
   })
 );
 app.get('/favicon.ico', (req,res) => {
-    console.log('favicon')
+    console.log('favicon');
   })
 app.use(express.json());
-app.use(express.urlencoded({ extended: true }))
-app.use(Session);
+app.use(express.urlencoded({ extended: true }));
+app.use('/', Session); 
+app.use(User);
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 5000;
 
 app.listen(port, () => {
-  console.log(`Express running on localhost:${port}`)
-})
+  console.log(`Express running on localhost:${port}`);
+});
