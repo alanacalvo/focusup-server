@@ -15,13 +15,15 @@ app.get('/:id', (req,res) => {
     .catch(console.error)
 })
 
-app.put('/finish/:id', (req,res) => {
-  Session.findByIdAndUpdate(req.params.id, 
-    {todos: req.body.todos, notes: req.body.notes})
-    .then(session => res.send(session))
-    .catch(console.error)
-})
+// app.put('/finish/:id', (req,res) => {
+//   Session.findByIdAndUpdate(req.params.id, 
+//     {todos: req.body.todos, notes: req.body.notes})
+//     .then(session => res.send(session))
+//     .catch(console.error)
+// })
 
+
+// WILL NEED ANOTHER .POST FOR POST SESSION SURVEYS
 
 app.post('/newsession',(req,res) => {
   Session.create(req.body)
