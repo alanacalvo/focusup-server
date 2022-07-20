@@ -23,9 +23,12 @@ const SessionSchema = new mongoose.Schema(
     userId: {
       type: mongoose.Types.ObjectId,
       ref: 'User'
+    },
+    day: { 
+      type: Date,
+      default: Date.now
     }
   },
-  { timestamps: true }
 );
 
 const Session = mongoose.model('Session', SessionSchema);
