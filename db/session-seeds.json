@@ -7,7 +7,7 @@
     "colorRating": "green",
     "_id": "62cf677a5a9f83327e5b1dd1",
     "userId": "62cf677a5a9f83327e5b1dd3",
-    "date": "new Date(2022, 2, 12)"
+    "date": "new Date()"
   },
   {
     "name": "Fold Laundry",
@@ -18,6 +18,6 @@
     "notes": "this was a great session",
     "_id": "62cf677a5a9f83327e5b1dd2",
     "userId": "62cf677a5a9f83327e5b1dd3",
-    "date": "new Date(2022, 6, 10)"
+    "date": "new Date()"
   }
 ]

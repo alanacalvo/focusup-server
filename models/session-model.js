@@ -26,7 +26,7 @@ const SessionSchema = new mongoose.Schema(
     },
     day: { 
       type: Date,
-      default: Date.now
+      default: new Date().getDate()
     }
   },
 );
