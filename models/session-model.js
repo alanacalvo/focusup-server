@@ -12,8 +12,9 @@ const SessionSchema = new mongoose.Schema(
       }
     },
     length: {
-      minutes: Number,
       hours: Number,
+      minutes: Number,
+      seconds: Number,
     },
     preSessionTodos: [String],
     postSessionTodos: [String],
