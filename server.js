@@ -13,13 +13,8 @@ const User = require('./controllers/userController');
 
 // require('dotenv').config({ path: './config.env' });
 
-app.use(
-  cors({
-    origin: `https://focusup.netlify.app/`,
-    credentials: false,
-  })
-);
-app.get('/favicon.ico', (req,res) => {
+app.use(cors());
+app.get('/favicon.ico', (req, res) => {
   console.log('favicon');
 })
 
@@ -34,7 +29,7 @@ app.get('/favicon.ico', (req,res) => {
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use('/sessions', Session); 
+app.use('/sessions', Session);
 app.use('/users', User);
 
 const port = process.env.PORT || 5000;
