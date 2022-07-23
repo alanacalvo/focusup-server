@@ -15,7 +15,7 @@ const User = require('./controllers/userController');
 
 app.use(
   cors({
-    origin: 'http://localhost:3000',
+    origin: `https://focusup.netlify.app/`,
     credentials: false,
   })
 );
