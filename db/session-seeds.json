@@ -1,11 +1,458 @@
 [
   {
+    "name": "gbbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqqqqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "tttttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gbbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqqqqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "tttttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqqqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "222222",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "a",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "g",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "cccc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xxxx",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "aaaaa",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "rrrrr",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "bbbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "bbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "kkkkk",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "kkklll",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "##e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "llll",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "loooo",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "lolol",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "yyyy",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "rrrtt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hhhhjjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6B0F1A",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "mmmmFold Laundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold mhjhLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold Laffffundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6B0F1A",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold dfdfgLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92AD94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold dffffy",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold ddddfLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92AD94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold ddddfLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92AD94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold ddddfLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92AD94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Fold ddddfLaundry",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92AD94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
     "name": "Project 4 Planning",
     "type": "pomodoro",
     "length": "3 hours",
     "todos": ["Wireframes", "Trello Board", "Component Heirarchy"],
-    "colorRating": "green",
-    "_id": "62cf677a5a9f83327e5b1dd1",
+    "colorRating": "#E08E45",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "Diff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
     "userId": "62cf677a5a9f83327e5b1dd3",
     "date": "new Date()"
   },
@@ -14,9 +461,617 @@
     "type": "regular",
     "length": "30 minutes",
     "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
-    "colorRating": "blue",
+    "colorRating": "#E7E1D6",
     "notes": "this was a great session",
-    "_id": "62cf677a5a9f83327e5b1dd2",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sddddd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gggg",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hhhhhh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sssss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdddsss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gbbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqqqqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "tttttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqqqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "222222",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "a",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "g",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "cccc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xxxx",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "aaaaa",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "rrrrr",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "bbbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "qqq",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "bbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "bbbb",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfdfvc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "sdfsdfc",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#e08e45",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "xzss",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "asdffdd",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "gfjfh",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "hfghtttt",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#92ad94",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ggfff",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#6b0f1a",
+    "notes": "this was a great session",
+    "userId": "62cf677a5a9f83327e5b1dd3",
+    "date": "new Date()"
+  },
+  {
+    "name": "ujujjj",
+    "type": "regular",
+    "length": "30 minutes",
+    "todos": ["Fold clothes", "Put clothes away", "Hang up dresses"],
+    "colorRating": "#E7E1D6",
+    "notes": "this was a great session",
     "userId": "62cf677a5a9f83327e5b1dd3",
     "date": "new Date()"
   }
